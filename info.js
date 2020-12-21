@@ -3,21 +3,21 @@ exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, te
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
-APA KABAR? SEMOGA BAIK-BAIK SAJA!
+Apa kabar? semoga kamu baik baik saja
 Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi* 😁
 
-💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
-💵GUNAKAN COMMAND !donasi untuk berdonasi💵
+🪐TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN
+🪐GUNAKAN COMMAND !donasi untuk berdonasi
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
-🔱 *INSTAGRAM*: ${instagram}
-🔱 *YOUTUBE*: ${youtube}
-🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🎧 *AUTHOR*: HANS
+🎧 *GITHUB*: https://github.com/Hansaldebran/Ciel-bot-wa
+🎧 *INSTAGRAM*: -
+🎧 *YOUTUBE*: -
+🎧 *TELEGRAM* : https://t.me/hnsran14
+🎧 *WHATSAPP* : +62 821-5888-27133
 
-🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
+✍️ *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
 
 INFO LAIN! :
 
@@ -36,4 +36,4 @@ JANGAN LUPA FOLLOW instagram
  ${instagram}
 
  👾TELEGRAM : ${telegram}`
-}
+
