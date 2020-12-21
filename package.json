@@ -34,7 +34,8 @@
   },
   "repository": {
     "type": "git",
-    "url" : "git + https://github.com/Hansaldebran/Ciel-bot-wa"
+    "url" : "git + https://github.com/Hansaldebran/Ciel-bot-wa"https : //github.com/Hansaldebran/Ciel-bot-wa#readme "
+}
   },
   "keywords": [
     "k"
@@ -42,7 +43,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": " https://github.com/Hansaldebran/Ciel-bot-wa/issues"
+    "url" : "https://github.com/Hansaldebran/Ciel-bot-wa/issues"
   },
-  "homepage": https://github.com/Hansaldebran/Ciel-bot-wa#readme"
+  "beranda" : "https ://github.com/Hansaldebran/Ciel-bot-wa#readme "
 }
